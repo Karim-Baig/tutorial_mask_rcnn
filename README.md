@@ -5,7 +5,10 @@ Code for composing two images together with Python can be found in this (image_c
 Find the full tutorial here: [Composing Images with Python for Synthetic Datasets](http://www.immersivelimit.com/tutorials/composing-images-with-python-for-synthetic-datasets)
 
 ## Mask-RCNN Training and Inference
-Code for training and running inference with the Matterport implementation of Mask R-CNN can be found in this (mask_rcnn/MaskRCNN_TrainAndInference.ipynb). The example uses a cig-butt dataset that needs to be downloaded separately from here (https://www.immersivelimit.com/datasets/cigarette-butts) a sample for the same can be found in the datasets folder along with the json.
+1. Code for training and running inference with the Matterport implementation of Mask R-CNN can be found in this (mask_rcnn/MaskRCNN_TrainAndInference.ipynb). 
+2. Please download and keep the mask-rcnn code from this link(https://github.com/ahmedfgad/Mask-RCNN-TF2) and keep inside the folder Mask-RCNN-TF2/
+
+3. The example uses a cig-butt dataset that needs to be downloaded separately from here (https://www.immersivelimit.com/datasets/cigarette-butts) a sample for the same can be found in the datasets folder along with the json.
 
 ## More about annotations used for Mask-RCNN 
 Coco Annotations explanation can be found here - https://cocodataset.org/#format-data
